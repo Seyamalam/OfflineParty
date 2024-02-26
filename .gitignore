@@ -1,5 +1,4 @@
 __pycache__
-Creators
 Config
 Release
 errors.txt
@@ -7,3 +6,4 @@ user_list.txt
 .venv
 .DS_Store
 TestData
+content.txt
